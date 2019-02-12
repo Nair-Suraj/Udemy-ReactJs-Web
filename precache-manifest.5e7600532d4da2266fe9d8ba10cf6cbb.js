@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "89f6022c23a43f8aecd2",
+    "revision": "16229d27921d466daa53",
     "url": "/Udemy-ReactJs-Web/static/css/main.137fc074.chunk.css"
   },
   {
-    "revision": "89f6022c23a43f8aecd2",
-    "url": "/Udemy-ReactJs-Web/static/js/main.89f6022c.chunk.js"
+    "revision": "16229d27921d466daa53",
+    "url": "/Udemy-ReactJs-Web/static/js/main.16229d27.chunk.js"
   },
   {
     "revision": "845eb8be2839c427e119",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Udemy-ReactJs-Web/static/js/2.7c80dc72.chunk.js"
   },
   {
-    "revision": "30394a819bdb4171c62a79a1f34cf291",
+    "revision": "f15ca1dcb09e66ec287042809dcaae89",
     "url": "/Udemy-ReactJs-Web/index.html"
   }
 ];
