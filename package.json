@@ -2,7 +2,7 @@
   "name": "assignment-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nair-suraj.github.io/Udemy-ReactJs-Web/",
+  "homepage": "https://Nair-Suraj.github.io/Udemy-ReactJs-Web/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "materialize-css": "^1.0.0-rc.2",
